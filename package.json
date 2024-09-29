@@ -10,8 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@firebasegen/default": "file:generated/javascript/default",
     "emoji-picker-react": "^4.12.0",
     "firebase": "^10.13.2",
+    "next.js": "^1.0.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-toastify": "^10.0.5",
