@@ -15,23 +15,18 @@ Prerequisites
 **Installation Steps**
 ### **Clone the repository:**
 ```
-bash
-Copy code
 git clone https://github.com/Destroyerg0d/TEACUPPP
 cd TEACUPPP
 ```
 ### **Install dependencies:**
 ```
-bash
-Copy code
 npm install
 ```
 ### **Set up Firebase:**
-```
+
 Create a Firebase project and set up Authentication, Firestore, and Storage.
 Create a .env file in the root folder with the following details:
-bash
-Copy code
+```
 REACT_APP_API_KEY=<your-firebase-api-key>
 REACT_APP_AUTH_DOMAIN=<your-auth-domain>
 REACT_APP_PROJECT_ID=<your-project-id>
@@ -41,8 +36,6 @@ REACT_APP_APP_ID=<your-app-id>
 ```
 ### **Start the development server:**
 ```
-bash
-Copy code
 npm start
 ```
 The app will run at http://localhost:3000/.
