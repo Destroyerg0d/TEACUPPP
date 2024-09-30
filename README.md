@@ -27,8 +27,20 @@ git clone https://github.com/Destroyerg0d/TEACUPPP
 cd TEACUPPP
 ```
 ### **Install dependencies:**
+
+RUN THESE COMMANDES ONE BY ONE IN THE TEACUPP DIRECTORY
 ```
 npm install
+npm install react react-dom
+npm install firebase
+npm install react-router-dom
+npm install react-toastify
+npm install emoji-picker-react
+npm install zustand
+npm install axios
+npm install @mui/material @emotion/react @emotion/styled
+npm install dotenv
+npm install pm2 -g
 ```
 ### **Set up Firebase:**
 
